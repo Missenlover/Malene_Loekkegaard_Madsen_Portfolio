@@ -1,0 +1,7 @@
+Post Process Heatwave Shader:
+"Shaders 102 - Basics of Image Effects" af "Makin' Stuff Look Good"
+https://youtu.be/kpBnIAPtsj8?si=poDX3fzpJ6yTzkme
+
+Toon/Cel Shading:
+"Shaders Case Study - Brawl Stars: Toon Shading" af "Makin' Stuff Look Good"
+https://youtu.be/W3Yg2i17TDo?si=UWX5l9Dnyyz48Cdk
